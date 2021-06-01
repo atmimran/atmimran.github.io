@@ -1,7 +1,11 @@
+html,body {
+    margin: 0px;
+    height: 100%;
+}
 #main{
 	background-color: #ABC;
   	height: 100%;
-  	background-position: center;
+  	/*background-position: center;
  	background-repeat: no-repeat;
- 	background-size: cover;
+ 	background-size: cover;*/
 }
